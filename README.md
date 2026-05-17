@@ -14,7 +14,7 @@ I’m a developer with a knack for creating projects that feel just a little dif
 
 ### 📫 Connect
 - **Email:** adeeljahangir56@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/adeel-jahangir-a10007279/
+- **LinkedIn:** https://www.linkedin.com/in/adeel-jahangir-/
 - 
 ## Let’s Connect  
 You’ll find me either working on projects that don’t quite follow the usual patterns or helping others turn simple ideas into something a bit more interesting.
