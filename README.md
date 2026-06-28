@@ -1,5 +1,5 @@
 ## Hi, I'm Adeel 👋
-Final-year BSCS student at **COMSATS University Islamabad, Lahore Campus**, building Web3 mobile applications and full-stack web platforms. Based in Lahore, Pakistan.
+BSCS graduate from **COMSATS University Islamabad, Lahore Campus**, building mobile applications and full-stack web platforms including there full CI/CD pipelines. Based in Lahore, Pakistan.
 
 ## About Me
 I’m a developer with a knack for creating projects that feel just a little different from the norm. I’m not all about *fun* code; I prefer making things that work smoothly without drawing too much attention to how it happens.
